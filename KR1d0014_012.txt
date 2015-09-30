@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集傳
-#+DATE: 2015-09-23 09:37:30
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:07:50.937315
+#+PROPERTY: ID KR1d0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1d0014_WYG_012-1a>¶
 欽定四庫全書¶
 　周官集傳卷十二　　　　元　毛應龍　撰¶
@@ -262,4 +264,3 @@
 都則(闕/)¶
 都士(闕/)¶
 家士(闕/)¶
-

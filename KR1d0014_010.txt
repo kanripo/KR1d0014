@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集傳
-#+DATE: 2015-09-23 09:37:30
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:07:50.900704
+#+PROPERTY: ID KR1d0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0014_WYG_010-1a>¶
 欽定四庫全書¶
 　周官集傳卷十　　　　　元　毛應龍　撰¶
@@ -392,4 +394,3 @@
 <pb:KR1d0014_WYG_010-22b>¶
 　人故于百二十人之中各分頭目以掌之遂有五者¶
 　之名非如司𨽻以中士下士為之則得謂之王官也¶
-

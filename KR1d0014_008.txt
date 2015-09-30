@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集傳
-#+DATE: 2015-09-23 09:37:30
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:07:50.864836
+#+PROPERTY: ID KR1d0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1d0014_WYG_008-1a>¶
 欽定四庫全書¶
 　周官集𫝊巻八　　　　　元　毛應龍　撰¶
@@ -474,4 +476,3 @@
 　大宰有八則以馭都鄙有家之大夫宫室車旗從其¶
 　命數非八則之所馭不可以不正也不正則季氏八¶
 　佾舞於庭三家以雍徹矣¶
-

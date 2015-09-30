@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集傳
-#+DATE: 2015-09-23 09:37:30
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:07:50.836102
+#+PROPERTY: ID KR1d0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1d0014_WYG_006-1a>¶
 欽定四庫全書¶
 　周官集傳巻六　　　　　元　毛應龍　撰¶
@@ -523,4 +525,3 @@
 聲凶聲慢聲大䘮涖廞樂器及葬藏樂器亦如之¶
 　膳夫云以樂宥食是常食也鍾鼔樂器之大所以稱¶
 　大食之禮也¶
-

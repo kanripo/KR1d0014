@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集傳
-#+DATE: 2015-09-23 09:37:30
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:07:50.804880
+#+PROPERTY: ID KR1d0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0014_WYG_004-1a>¶
 欽定四庫全書¶
 　周官集傳巻四　　　　　元　毛應龍　撰¶
@@ -569,4 +571,3 @@
 　之言觀之則舄之制自赤舄之外不見其有異色則¶
 　赤舄為王之舄黑舄為后之舄亦不辨而明矣¶
 夏采掌大䘮以冕服復于太祖以乗車建綏復于四郊¶
-
